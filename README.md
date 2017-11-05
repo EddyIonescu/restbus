@@ -11,3 +11,9 @@ All documentation is hosted at [restbus.info][0].
 
 [0]: http://restbus.info
 [1]: http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf
+
+## Getting Started
+
+1. Run `npm install`
+2. Run `npm start`
+
