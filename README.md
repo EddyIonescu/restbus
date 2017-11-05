@@ -1,11 +1,10 @@
 [restbus][0]
 ============
 
-Converts the [NextBus Inc. XML feed][1] into a RESTful JSON API.
 
-The NextBus Inc. XML feed provides useful data to build real-time transit applications. To make
-interfacing with it easier while using front end libraries and frameworks like Backbone, Angular,
-or React use [restbus][0] as a proxy server for your application.
+The NextBus Inc. XML feed provides useful data to build real-time transit applications.
+This library makes it easy to use by converting the [NextBus Inc. XML feed][1] into a RESTful JSON API.
+
 
 All documentation is hosted at [restbus.info][0].
 
@@ -16,4 +15,12 @@ All documentation is hosted at [restbus.info][0].
 
 1. Run `npm install`
 2. Run `npm start`
+
+## Usage
+
+Server-side (our use-case)
+-  Deploy and consume the API via Port 3535.
+
+Client-side
+- Package can be added to a React app.
 
